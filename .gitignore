@@ -1,0 +1,6 @@
+# IDE Settings
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints
