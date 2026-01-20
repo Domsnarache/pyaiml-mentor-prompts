@@ -1,6 +1,6 @@
 # AIML Learning System (Tamil – Personalized) 🧠🤖
 
-Welcome to the **Personalized AI/ML Learning System** repository. This project contains the engineered "System Prompts" used to transform an LLM (like ChatGPT/LM Studio) into a dedicated **Senior Python Mentor** tailored specifically for a Tamil-speaking learner transitioning into AI Engineering.
+Welcome to the **Personalized AI/ML Learning System** repository. This project contains the engineered "System Prompts" used to transform an LLM into a dedicated **Senior Python Mentor** tailored specifically for a Tamil-speaking learner transitioning into AI Engineering.
 
 ## 🎯 Project Goal
 
